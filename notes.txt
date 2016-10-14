@@ -1,0 +1,33 @@
+- fire ipython
+- fire psql
+
+- import module
+- connect
+- show pid
+- show pg_stat_activity
+- run a query
+- return a tuple with types
+- show types oids
+
+- show idle in transaction
+- create table
+- insert data in python
+- show hasn't appeared in psql
+- show error in transaction
+- autocommit
+
+- show the fetch*() method
+- show cursor factories
+
+- mapping from postgres to python
+- show a query with some date, timestamp, float
+- customize num2float
+- customize array
+
+- Adaptation, bad example, why bad, good example, bobby table
+- Little Bobby Table
+
+- Adaptation customiZZation
+- Mac object, Mac adapter
+
+- Async notification demo
