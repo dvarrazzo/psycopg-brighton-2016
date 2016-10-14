@@ -13,7 +13,6 @@ In order to render the slideshow, just install Landslide and::
 
     cd slides
     make html
-    make pdf    # This requires Prince, see Landslide docs
 
 The slideshow has an interactive part with more complex requirements: you can
 build the entire environment with::
