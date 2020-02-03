@@ -6,6 +6,11 @@ An experiment using Landslide__ to produce an `HTML5 slideshow`__.
 .. __: https://github.com/adamzap/landslide
 .. __: https://code.google.com/p/html5slides/
 
+The video of the presentation is online: `An Evening with Psycopg2`__.
+
+.. __: https://www.youtube.com/watch?v=f5TQO4ABotw
+
+
 Usage
 -----
 
